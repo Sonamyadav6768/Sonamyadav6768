@@ -4,7 +4,7 @@
 <h3 align="center">Combining backend Java expertise with front-end technologies to create dynamic web solutions."</h3>
 
 
-<img align="right" height="200" width="300" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="250" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 
 - 📫 How to reach me **sonamyadav1181@gmail.com**
