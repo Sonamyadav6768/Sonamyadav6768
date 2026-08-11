@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sonamyadav1181@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Zb2FuoLkkr0qQJ8vtepoWt0gqIH2ci5T/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mEELFCQ0N407yDq3LNBmj1tu2-Ql8xDX/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
