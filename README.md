@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<img align="right" height="250" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="250" width="400" src="https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=400&h=250&fit=crop&crop=entropy&auto=format&q=80" alt="Developer coding" style="border-radius:12px;" />
 
 ### 👩‍💻 About Me
 
@@ -44,15 +44,16 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 </p>
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonamyadav6768&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonamyadav6768&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top langs" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sonamyadav6768&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 </p>
 
+### 📈 Contribution Activity
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sonamyadav6768&theme=tokyonight" alt="streak stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonamyadav6768&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
 </p>
 
 <p align="center">
